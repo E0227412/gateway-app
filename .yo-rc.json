@@ -1,7 +1,8 @@
 {
   "generator-jhipster": {
     "promptValues": {
-      "packageName": "com.gateway"
+      "packageName": "com.gateway",
+      "microservicePath": "D:\\jhipster_test\\car-app"
     },
     "jhipsterVersion": "6.10.5",
     "applicationType": "gateway",
